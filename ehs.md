@@ -1,6 +1,7 @@
 # Ed Summers
 
 Silver Spring, Maryland, USA  
+
 <ehs@pobox.com>  
 <http://inkdroid.org>  
 <http://twitter.com/edsu>  
