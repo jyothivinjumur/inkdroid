@@ -4,6 +4,7 @@ Silver Spring, Maryland, USA
 <ehs@pobox.com>  
 <http://inkdroid.org>  
 <http://twitter.com/edsu>  
+<http://github.com/edsu>
 
 ## Expertise
 

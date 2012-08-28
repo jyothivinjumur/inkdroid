@@ -13,3 +13,6 @@ repositories:
 * lod-graph
 * subjects-here
 * wikitrends
+
+And then setup wordpress in a directory named `journal` hopefully populated
+with a backup of the inkdroid wordpress database.
