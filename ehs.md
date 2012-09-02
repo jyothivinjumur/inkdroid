@@ -9,11 +9,11 @@ Silver Spring, Maryland, USA
 
 ## Expertise
 
-web technology, REST, linked data  
-digital preservation, metadata, search  
-opensource, standards development, community building  
-automated testing, agile software development, prototyping  
-python, javascript, ruby, perl, php, java, c, scheme
+* web technology, REST, linked data  
+* digital preservation, metadata, search  
+* opensource, standards development, community building  
+* automated testing, agile software development, prototyping  
+* python, javascript, ruby, perl, php, java, c, scheme
 
 ## Work History
 
