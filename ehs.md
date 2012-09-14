@@ -127,14 +127,16 @@ University of Illinois, Champaign-Urbana, IL
 
 ## Selected Publications
 
-* Simple Knowledge Organization System Primer, 2008. 
+* [Library Linked Data Final Report] [lld], W3C Incubator Group Report, October
+  2011.
+* [SKOS Simple Knowledge Organization System Primer] [skos], W3C Working Group Note, 
+  August 18th, 2008. 
   http://www.w3.org/TR/skos-primer/
-* LCSH, SKOS and Linked Data, preprint for the Proceedings of 
-  the International Conference on DublinCore and Metadata 
-  Applications, 2008. http://arxiv.org/abs/0805.2855
-* Following Your Nose to the Web of Data, Information Standards 
-  Quarterly, 2008 http://inkdroid.org/journal/2008/01/04/following-your-nose-to-the-web-of-data/
-* Building OAI-PMH Harvesters With Net::OAI::Harvester, Ariadne,
+* [LCSH, SKOS and Linked Data] [lcsh-skos-ld], Proceedings of the International 
+  Conference on DublinCore and Metadata Applications, 2008.
+* [Following Your Nose to the Web of Data] [nose], Information Standards 
+  Quarterly, 2008
+* [Building OAI-PMH Harvesters With Net::OAI::Harvester] [harvesters], Ariadne, 
   no. 38, Jan 2004.
 * Cyril: Expanding the Horizons of MARC21, Library Hi Tech, v. 
   22, no. 1, 2004.
@@ -158,3 +160,8 @@ University of Illinois, Champaign-Urbana, IL
 
 [ndnp]: http://chroniclingamerica.loc.gov/ "Chronicling America"
 [id]: http://id.loc.gov/
+[lld]: http://www.w3.org/2005/Incubator/lld/XGR-lld-20111025/ "Library Linked Data Incubator Group Final Report"
+[skos]: http://www.w3.org/TR/skos-primer "SKOS Simple Knowledge Oranization System Primer" 
+[lcsh-skos-ld]: http://dcpapers.dublincore.org/ojs/pubs/article/view/916
+[nose]: http://inkdroid.org/journal/2008/01/04/following-your-nose-to-the-web-of-data/
+[harvesters]: http://www.ariadne.ac.uk/issue38/summers
