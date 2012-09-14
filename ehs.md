@@ -143,7 +143,7 @@ University of Illinois, Champaign-Urbana, IL
 * A Consortial Approach to Cooperative Cataloging and Authority 
   Control: The Virtual Library of Virginia Experience, Resource 
   Sharing and Information Networks, v. 16, no. 1, 2003, p. 33-53.
-* Paying Homage to Perl (PHP), The Perl Review, January, 2003.
+* [Paying Homage to Perl (PHP)] [homage], The Perl Review, January, 2003.
 * MARC it your way: MARC.pm, Information Technology and 
   Libraries, March, 2002.
 * Comprehensive Access to Periodicals: A Database Solution, 
@@ -165,3 +165,4 @@ University of Illinois, Champaign-Urbana, IL
 [lcsh-skos-ld]: http://dcpapers.dublincore.org/ojs/pubs/article/view/916
 [nose]: http://inkdroid.org/journal/2008/01/04/following-your-nose-to-the-web-of-data/
 [harvesters]: http://www.ariadne.ac.uk/issue38/summers
+[homage]: http://www.theperlreview.com/articles/php.html
