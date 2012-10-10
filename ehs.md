@@ -30,6 +30,16 @@ Library of Congress, Washington, DC
 * contributing member to the Semantic Web Deployment Group, and Library Linked Data Incubator Group at the W3C
 
 Consultant  
+GlueJar  
+11/2011 - 04/2012
+
+* Django software development [UnglueIt] [unglueit]
+* Amazon AWS Deployment (EC2, RDS, Route 53) for dev, test and production
+* Google Books integration
+* Google, Facebook, Twitter social media integration
+* Automated Testing and Continuous Integration
+
+Consultant  
 Canary Project  
 Yale School of Medicine, New Haven, CT  
 07/2005 - 12/2005
@@ -166,3 +176,4 @@ University of Illinois, Champaign-Urbana, IL
 [nose]: http://inkdroid.org/journal/2008/01/04/following-your-nose-to-the-web-of-data/
 [harvesters]: http://www.ariadne.ac.uk/issue38/summers
 [homage]: http://www.theperlreview.com/articles/php.html
+[unglueit]: http://unglueit.com
