@@ -48,9 +48,15 @@
     },
     {
       "@id": "http://www.kickstarter.com/profile/edsu"
-   },
-   {
+    },
+    {
       "@id": "http://flickr.com/inkdroid"
+    },
+    { 
+      "@id": "http://orcid.org/0000-0001-7320-8150"
+    },
+    {
+      "@id": "http://philpapers.org/profile/42061"
     }
   ],
   "foaf:depiction": {

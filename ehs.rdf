@@ -24,6 +24,8 @@
     <foaf:account rdf:resource="http://www.librarything.com/home/edsu"/>
     <foaf:account rdf:resource="http://www.linkedin.com/in/esummers"/>
     <foaf:account rdf:resource="http://www.rdio.com/people/esummers/"/>
+    <foaf:account rdf:resource="http://orcid.org/0000-0001-7320-8150"/>
+    <foaf:account rdf:resource="http://philpapers.org/profile/42061"/>
     <foaf:depiction rdf:resource="http://www.inkdroid.org/images/ehs.jpg"/>
     <foaf:firstName>Edward</foaf:firstName>
     <foaf:homepage rdf:resource="http://inkdroid.org"/>

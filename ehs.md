@@ -37,7 +37,7 @@ GlueJar
 * Amazon AWS Deployment (EC2, RDS, Route 53) for dev, test and production
 * Google Books integration
 * Google, Facebook, Twitter social media integration
-* Automated Testing and Continuous Integration
+* automated testing and continuous integration (Jenkins)
 
 Consultant  
 Canary Project  

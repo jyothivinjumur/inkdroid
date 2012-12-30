@@ -1,14 +1,14 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix bio: <http://purl.org/vocab/bio/0.1/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix bio: <http://purl.org/vocab/bio/0.1/> .
 
 <http://inkdroid.org/ehs>
     bio:olb "Hacker for libraries, digital archaeologist, pragmatist." ;
     a foaf:Person ;
     owl:sameAs <http://identi.ca/user/6104>, <http://knowee.net/edsu#self>, <http://semantictweet.com/edsu#me> ;
-    foaf:account <http://en.wikipedia.org/wiki/User:Edsu>, <http://flickr.com/inkdroid>, <http://github.com/edsu>, <http://identi.ca/edsu>, <http://last.fm/user/inkdroid>, <http://scholar.google.com/citations?hl=en&user=ctpWtsIAAAAJ>, <http://twitter.com/edsu>, <http://www.freebase.com/view/user/edsu>, <http://www.goodreads.com/user/show/5899086-ed-summers>, <http://www.google.com/profiles/ed.summers>, <http://www.kickstarter.com/profile/edsu>, <http://www.librarything.com/home/edsu>, <http://www.linkedin.com/in/esummers>, <http://www.rdio.com/people/esummers/> ;
+    foaf:account <http://en.wikipedia.org/wiki/User:Edsu>, <http://flickr.com/inkdroid>, <http://github.com/edsu>, <http://identi.ca/edsu>, <http://last.fm/user/inkdroid>, <http://orcid.org/0000-0001-7320-8150>, <http://philpapers.org/profile/42061>, <http://scholar.google.com/citations?hl=en&user=ctpWtsIAAAAJ>, <http://twitter.com/edsu>, <http://www.freebase.com/view/user/edsu>, <http://www.goodreads.com/user/show/5899086-ed-summers>, <http://www.google.com/profiles/ed.summers>, <http://www.kickstarter.com/profile/edsu>, <http://www.librarything.com/home/edsu>, <http://www.linkedin.com/in/esummers>, <http://www.rdio.com/people/esummers/> ;
     foaf:depiction <http://www.inkdroid.org/images/ehs.jpg> ;
     foaf:firstName "Edward" ;
     foaf:homepage <http://inkdroid.org> ;
