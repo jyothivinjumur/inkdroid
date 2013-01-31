@@ -100,9 +100,9 @@ Follett Library Resources, McHenry IL
 * XML processing
 * distributed application design using SOAP/XMLRPC
 
-Senior Software Engineer
-CheetahMail, New York NY
-02/2000 - 07/2002
+Senior Software Engineer  
+CheetahMail, New York NY  
+02/2000 - 07/2002  
 
 * team lead in a group of 8 programmers
 * developed data processing infrastructure for Fortune 500 clients
