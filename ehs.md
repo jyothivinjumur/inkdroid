@@ -137,6 +137,7 @@ University of Illinois, Champaign-Urbana, IL
 
 ## Selected Publications
 
+* Key Choices in the Design of Simple Knowledge Organization System (SKOS).
 * [Library Linked Data Final Report] [lld], W3C Incubator Group Report, October
   2011.
 * [SKOS Simple Knowledge Organization System Primer] [skos], W3C Working Group Note, 

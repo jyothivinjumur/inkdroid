@@ -1,6 +1,8 @@
 RewriteEngine On
 RewriteBase /
 
+RewriteRule \.sql - [F]
+
 RewriteCond %{HTTP_ACCEPT} application/rdf\+xml
 RewriteRule ^ehs$ ehs.rdf [R=303]
 
