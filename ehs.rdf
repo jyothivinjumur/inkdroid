@@ -27,6 +27,7 @@
     <foaf:account rdf:resource="http://orcid.org/0000-0001-7320-8150"/>
     <foaf:account rdf:resource="http://philpapers.org/profile/42061"/>
     <foaf:account rdf:resource="http://arxiv.org/a/summers_e_1"/>
+    <foaf:account rdf:resource="http://www.metafilter.com/user/181723"/>
     <foaf:depiction rdf:resource="http://www.inkdroid.org/images/ehs.jpg"/>
     <foaf:firstName>Edward</foaf:firstName>
     <foaf:homepage rdf:resource="http://inkdroid.org"/>

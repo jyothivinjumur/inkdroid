@@ -137,7 +137,9 @@ University of Illinois, Champaign-Urbana, IL
 
 ## Selected Publications
 
-* Key Choices in the Design of Simple Knowledge Organization System (SKOS).
+* [MJ no more: Using Concurrent Wikipedia Edit Spikes with Social Network Plausibility Checks for Breaking News Detection] [mj]. 2013. 
+* [Linking Things on the Web: A Pragmatic Examination of Linked Data] [linking-things], 2013.
+* [Key Choices in the Design of Simple Knowledge Organization System (SKOS)] [key-choices], 2013.
 * [Library Linked Data Final Report] [lld], W3C Incubator Group Report, October
   2011.
 * [SKOS Simple Knowledge Organization System Primer] [skos], W3C Working Group Note, 
@@ -178,3 +180,6 @@ University of Illinois, Champaign-Urbana, IL
 [harvesters]: http://www.ariadne.ac.uk/issue38/summers
 [homage]: http://www.theperlreview.com/articles/php.html
 [unglueit]: http://unglueit.com
+[mj]: http://arxiv.org/abs/1303.4702
+[linking-things]: http://arxiv.org/abs/1302.4591
+[key-choices]: http://arxiv.org/abs/1302.1224
