@@ -30,6 +30,17 @@ Library of Congress, Washington, DC
 * contributing member to the Semantic Web Deployment Group, and Library Linked Data Incubator Group at the W3C
 
 Consultant  
+Hypothes.is  
+San Fransisco, CA  
+01/2013 - present
+
+* CoffeeScript and Python development
+* Work on the opensource [Annotator] [annotator] and [Annotator Store] [annotator-store] projects
+* Design and implementation of [cross format annotation support] [cross-format-annotation]
+* added functional and unit testing support using selenium, pytest, Travis-CI
+ and SauceLabs
+
+Consultant  
 GlueJar  
 11/2011 - 04/2012
 
@@ -183,3 +194,6 @@ University of Illinois, Champaign-Urbana, IL
 [mj]: http://arxiv.org/abs/1303.4702
 [linking-things]: http://arxiv.org/abs/1302.4591
 [key-choices]: http://arxiv.org/abs/1302.1224
+[annotator]: http://github.com/okfn/anotator
+[annotator-store]: http://github.com/okfn/anotator-store
+[cross-format-annotation]: http://hypothes.is/blog/cross-format-annotation/
