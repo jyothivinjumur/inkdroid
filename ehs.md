@@ -35,10 +35,9 @@ San Fransisco, CA
 01/2013 - present
 
 * CoffeeScript and Python development
-* Work on the opensource [Annotator] [annotator] and [Annotator Store] [annotator-store] projects
-* Design and implementation of [cross format annotation support] [cross-format-annotation]
-* added functional and unit testing support using selenium, pytest, Travis-CI
- and SauceLabs
+* work on the opensource [Annotator] [annotator] and [Annotator Store] [annotator-store] projects
+* design and implementation of [cross format annotation support] [cross-format-annotation]
+* functional and unit testing support using selenium, pytest, Travis-CI and SauceLabs
 
 Consultant  
 GlueJar  

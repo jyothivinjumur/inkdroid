@@ -32,6 +32,8 @@ RewriteRule ^ehs$ ehs/ [R=303]
 RewriteRule ^ehs.txt$ ehs.md [R=301]
 
 RewriteRule ^ehs/ ehs.html
+RewriteRule ^creepy-polaroid/?$ creepy-polaroid.html
+RewriteRule ^polaroid/?$ creepy-polaroid/ [R=301]
 
 # silly stuff
 
