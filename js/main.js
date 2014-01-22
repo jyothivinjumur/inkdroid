@@ -2,6 +2,7 @@ var pinboard_bookmarks = [];
 
 function main() {
   cards = make_pinboard();
+  cards.push(make_card('todo', 'https://www.dropbox.com/s/r1k1bellrzm8sqt/todo.txt', 'todo'));
   cards.push(make_card('blog', '/journal', 'blog'));
   cards.push(make_card('photos', 'http://flickr.com/photos/inkdroid', 'flickr'));
   cards.push(make_card('books', 'http://www.goodreads.com/user/show/5899086-ed-summers', 'books'));

@@ -50,6 +50,15 @@ body {
   padding: 10px;
 }
 
+.todo a
+{
+  color: lightblue; 
+  font-weight: bold;
+  border: thin dashed;
+  font-size: 22pt;
+  padding: 10px;
+}
+
 .books a {
   color: green;
   font-weight: bold;

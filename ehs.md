@@ -10,7 +10,7 @@ Silver Spring, Maryland, USA
 ## Expertise
 
 * web technology, REST, linked data  
-* digital preservation, metadata, search  
+* digital preservation, data management, search  
 * opensource, standards development, community building  
 * automated testing, agile software development, prototyping  
 * python, javascript, ruby, perl, php, java, c, scheme
@@ -32,10 +32,10 @@ Library of Congress, Washington, DC
 Consultant  
 Hypothes.is  
 San Fransisco, CA  
-01/2013 - present
+01/2013 - 10/2013
 
 * CoffeeScript and Python development
-* work on the opensource [Annotator] [annotator] and [Annotator Store] [annotator-store] projects
+* development of the opensource [Annotator] [annotator] and [Annotator Store] [annotator-store] projects
 * design and implementation of [cross format annotation support] [cross-format-annotation]
 * functional and unit testing support using selenium, pytest, Travis-CI and SauceLabs
 
