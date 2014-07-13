@@ -7,7 +7,7 @@ Silver Spring, Maryland, USA
 <http://twitter.com/edsu>  
 <http://github.com/edsu>
 
-I'm a software developer with almost two decades of experience bridging the
+I'm a software developer with two decades of experience bridging the
 worlds of libraries and archives with the World Wide Web. I've worked in
 academia, startups, corporations and the government. I work best in
 agile, highly collaborative teams, that want to help make the world a
