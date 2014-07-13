@@ -39,7 +39,7 @@ Consultant
 George Washington University, Washington, DC  
 10/2013 - present  
 
-* Django Web Development
+* Django Web Development on the [Launchpad] [Launchpad]
 * Voyager ILS integration (Oracle)
 * Serial Solutions Summon API integration
 
@@ -165,15 +165,18 @@ I like to learn and keep my skills sharp by working on or
 participating in opensource projects. This is a shortlist of projects that
 I'm proud to have started or been involved with:
 
-* [wikistream] [wikistream]: visualize realtime edits to all major language Wikipedias.
-* [anon] [anon]: post anonymous Wikipedia edits from particular IP ranges to Twitter.
+* [wikistream] [wikistream]: visualize realtime edits to all major language Wikipedias
+* [anon] [anon]: post anonymous Wikipedia edits from particular IP ranges to Twitter
 e.g. [congress-edits] [congress-edits]
 * [pymarc] [pymarc]: a python library for liberating library data locked up in
-the MARC format.
-* [shortimer]: a jobs board that uses Google Freebase
-* [linkypedia]: view how websites are used on Wikipedia
-* [fondz]: generate an archival description for describing born digital content
-* [ici]: view Wikipedia articles for your current location on a map.
+the MARC format
+* [shortimer] [shortimer]: a jobs board that uses Google Freebase
+* [linkypedia] [linkypedia]: view how websites are used on Wikipedia
+* [fondz] [fondz]: generate an archival description for describing born digital content
+* [ici] [ici]: view Wikipedia articles for your current location on a map
+* [microdata] [microdata]: a python library for parsing HTML 5 microdata
+* [twarc] [twarc]: a command line utility for archiving Twitter
+* [rdflib] [rdflib]: a Python library for processing RDF
 
 ## Selected Publications
 
@@ -234,5 +237,7 @@ the MARC format.
 [linkypedia]: http://github.com/edsu/linkypedia
 [fondz]: http://github.com/fondz
 [ici]: http://github.com/ici
-[chronam]: http://github.com/libraryofcongress/chronam
-[bagit]: http://github.com/libraryofcongress/bagit
+[launchpad]: http://github.com/gwu-libraries/launchpad
+[microdata]: https://github.com/edsu/microdata
+[twarc]: https://github.com/edsu/twarc
+[rdflib]: https://github.com/RDFLib
